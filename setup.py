@@ -2,7 +2,7 @@ import setuptools
 
 setuptools.setup(
     name="mfoops",
-    version="0.0.0",
+    version="0.1.0",
     author="Matthew Farrellee",
     author_email="matt@cs.wisc.edu",
     descrption="Pseudorandom things",
